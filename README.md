@@ -1,6 +1,6 @@
 # [AIME Smart HOME - Resume](https://mepf.github.io/AIME-SmartHome/)
 
-SMART HOME FOR EVERYONE, COMPLETE PROJECT FREE.
+SMART HOME FOR EVERYONE, COMPLETE PROJECT.
 
 
 ## Usage
