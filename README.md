@@ -18,7 +18,7 @@ Have a bug or an issue with this project? [Open a new issue](https://github.com/
 
 ## About
 
-This project is born from a desire to have a smart home with minimal costs, in order to enjoy the comfort offered by the evolution of technologists. Made for a minimum of HARDWARE and SOFTWARE knowledge as you will see.
+This project is born from a desire to have a smart home with minimal costs, in order to enjoy the comfort offered by the evolution of technologies. Made for a minimum of HARDWARE and SOFTWARE knowledge as you will see.
 
 
 ## Copyright and License
